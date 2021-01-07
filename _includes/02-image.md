@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Microsoft repository meme](https://cdn.vox-cdn.com/thumbor/ckcxHpbgbybFEX7IN7NKL2hmBUE=/0x0:600x456/1200x0/filters:focal(0x0:600x456)/cdn.vox-cdn.com/uploads/chorus_asset/file/11481945/T5aMEdy1tNYKCFSQlkhWr7FX9oQ4VIy_Td6S7LW__GM.jpg)
