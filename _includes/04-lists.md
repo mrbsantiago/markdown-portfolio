@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Upcoming books to read: :books:
+* The Expectant Father
+* Atomic Habits
+* Deep Work
