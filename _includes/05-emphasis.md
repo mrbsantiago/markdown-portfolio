@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* 2020 Development focus*
+  * Complete **ITA** Program
+  * Complete AWS Courses (**Developer, Architect**)
+  * Practice CTFs 
